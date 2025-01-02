@@ -1,5 +1,3 @@
-
-=======
 # Spam Detection and Email Alert System  
 
 This repository implements a **Spam Detection and Email Alert System** using **Flask** and **Machine Learning**. The system is designed to identify spam messages and notify users via email alerts when spam is detected.  
@@ -118,5 +116,3 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 - **Python SMTP Library** for enabling email functionality.  
 - Special thanks to the open-source community for helpful resources and tools.  
 
----
->>>>>>> f2c2dfb (Added README.md file)
