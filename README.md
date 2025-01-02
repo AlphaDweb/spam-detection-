@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 =======
 # Spam Detection and Email Alert System  
 
@@ -45,7 +44,7 @@ This repository implements a **Spam Detection and Email Alert System** using **F
 
 ### 1. Clone the Repository:  
 ```bash  
-git clone https://github.com/your-username/spam-detection-email-alert.git  
+https://github.com/AlphaDweb/spam-detection-.git
 cd spam-detection-email-alert  
 ```  
 
